@@ -19,7 +19,7 @@ O painel foi estruturado em três visões estratégicas. A visão de crescimento
 Foi identificada uma sazonalidade diária nos pedidos, com variação média de aproximadamente 10% entre dias consecutivos. Observou-se que cidades classificadas como Semi-Urban não apresentam condições de tráfego baixo. Além disso, as maiores variações no tempo de entrega ocorrem em condições climáticas ensolaradas.
 
 ## 🚀 Produto Final
-O produto final é um dashboard interativo online, hospedado em Cloud e acessível por qualquer dispositivo conectado à internet. O painel pode ser acessado pelo link: https://currycompany-vitor.streamlit.app/
+O produto final é um dashboard interativo online, hospedado em Cloud e acessível por qualquer dispositivo conectado à internet. O painel pode ser acessado pelo link: [https://currycompany-vitor.streamlit.app/](https://currycompany-vitor.streamlit.app/)
 
 ## 🧪 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando Python, Pandas, NumPy, Plotly e Streamlit.
